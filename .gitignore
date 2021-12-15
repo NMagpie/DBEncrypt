@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
 
+# JSON files
+
+*.json
+
 # Log file
 *.log
 
